@@ -1,3 +1,5 @@
+hive-tutorial
+
 HIVE TUTORIAL
 
 Datasets ======== There are 2 datasets in the repo.
