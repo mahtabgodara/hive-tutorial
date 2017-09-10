@@ -64,7 +64,7 @@ area_code INT, code STRING) ROW FORMAT DELIMITED FIELDS TERMINATED BY
 
 * Load data into airports table:
 
-<pre> <code> LOAD DATA LOCAL INPATH 'nyc-hug-hive/airports.csv'
+<pre> <code> LOAD DATA LOCAL INPATH 'airports.csv'
 OVERWRITE INTO TABLE airports; </code> </pre>
 
 * On hive shell, list some rows from the airports table:
